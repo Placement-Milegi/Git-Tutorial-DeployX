@@ -1,17 +1,20 @@
 Terminal command : clear
 Git Commands :-
 
-1.  git --version
-2.  git config --global user.name Your Name
-3.  git config --global user.email Your Email’D
-4.  git init
-5.  git status
-6.  git add file.txt
-7.  git add .
-8.  git commit -m "message"
+1.  git --version  (Check version)
+2.  git config --global user.name Your Name     (Create username)
+3.  git config --global user.email Your Email’D      (Create email id)
+4.  git init   (Invite git to folder)
+5.  git status       (Check status of file)
+6.  git add file.txt   (Add perticuler file)
+7.  git add .      (Add all files)
+8.  git commit -m "message"      (Commiting file)
 9.  git log              (Press Q to unloop the courser)
-10. git log --oneline
-11. git chechout SHA_ID
-12. git checkout master (To return)
-13. git remote add origin repo_url
-14. git remote -v
+10. git log --oneline    (Check versions)
+11. git chechout SHA_ID  (Change version)
+12. git checkout master (To return)   (Revert version)
+13. git remote add origin repo_url    (Connecting git and repo)
+14. git remote -v  (Check the ststus of origin adding)
+15. git push origin main/master  (Push to GitHub)
+16. git branch     (Check branch)
+17. git branch -m master main  (Rename master to main)

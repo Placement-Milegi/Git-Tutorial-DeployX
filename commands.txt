@@ -1,0 +1,15 @@
+Terminal command : clear
+Git Commands :-
+
+1.  git --version
+2.  git config --global user.name Your Name
+3.  git config --global user.email Your Email’D
+4.  git init
+5.  git status
+6.  git add file.txt
+7.  git add .
+8.  git commit -m "message"
+9.  git log
+10. git log --oneline
+11. git chechout SHA_ID
+12. 

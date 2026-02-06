@@ -9,7 +9,9 @@ Git Commands :-
 6.  git add file.txt
 7.  git add .
 8.  git commit -m "message"
-9.  git log
+9.  git log              (Press Q to unloop the courser)
 10. git log --oneline
 11. git chechout SHA_ID
-12. 
+12. git checkout master (To return)
+13. git remote add origin repo_url
+14. git remote -v
